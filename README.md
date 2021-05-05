@@ -1,8 +1,8 @@
 # terraform
 
-Simple alpine docker image with only terraform v0.13.5 cli installed (to use in GitLab pipelines for example).
-
-
+Simple alpine docker image with only terraform cli installed (to use within GitLab CI pipelines for example).
+\
+\
 <b>Command to build the image :</b>
 
 docker build -t <b>terraform:0.13.5-1</b> .
