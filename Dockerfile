@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:latest
 
 ARG http_proxy
 ARG https_proxy
